@@ -1,11 +1,11 @@
 import React from 'react'
 
-const Team = () => {
+const Alumni = () => {
   return (
     <div className='text-white'>
-      I am team
+      I am Alumni
     </div>
   )
 }
 
-export default Team
+export default Alumni
